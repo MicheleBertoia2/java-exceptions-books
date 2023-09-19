@@ -1,0 +1,3 @@
+Libro [titolo= gianni, pagine= 22, autore= fagianni, editore= einaudi]
+Libro [titolo= merola, pagine= 33, autore= foxtrot, editore= alabama]
+Libro [titolo= frecciagiu, pagine= 88, autore= ein, editore= audi]
